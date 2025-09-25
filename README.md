@@ -18,7 +18,8 @@ Dự án này triển khai giải quyết hai bài toán quan trọng trong lý 
 ### **Traveling Salesman Problem (TSP)**
 - **Thuật toán**: **Dynamic Programming** kết hợp **Bitmasking** để giảm bớt độ phức tạp của bài toán TSP.
 - **Chiến lược**: Mỗi trạng thái trong bài toán được lưu trữ để tránh tính toán lại nhiều lần. Thuật toán DP với bitmasking cho phép đánh dấu các đỉnh đã thăm và tìm ra chu trình tối ưu.
-
+  
+**Để hiểu hơn về thuật toán sử dụng trong bài TSP các bạn có thể xem file báo cáo nhé**
 ### **Bellman-Ford Algorithm**
 - **Thuật toán**: Sử dụng **relaxation** để tìm đường đi ngắn nhất từ đỉnh bắt đầu đến tất cả các đỉnh còn lại trong đồ thị, đồng thời có thể xử lý các cạnh có trọng số âm.
 - **Ưu điểm**: Có thể phát hiện chu trình âm trong đồ thị, điều này rất quan trọng khi làm việc với các bài toán về đồ thị không có chu trình âm.
@@ -35,7 +36,9 @@ ASSIGNMENT_CTRR/
 ├── src/
 │   ├── bellman.cpp       # Implementations of Bellman-Ford algorithm
 │   ├── tsm.cpp           # Implementations of TSP algorithm
-│   └── main.cpp          # File chính để chạy chương trình
+│
+├── main.cpp              # File chính để chạy chương trình
+└── 2310190_tsm.pf        # File báo cáo và có giải thích các thuật toán
 ```
 ### **Thư mục `inc/`**
 - **`tsm.h`**: Chứa các khai báo và chức năng liên quan đến thuật toán TSP.
