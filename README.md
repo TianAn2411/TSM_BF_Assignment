@@ -1,5 +1,5 @@
 
-# **CTRR - Assignment: Traveling Salesman Problem (TSP) and Bellman-Ford Algorithm
+# **CTRR - Assignment: Traveling Salesman Problem (TSP) and Bellman-Ford Algorithm**
 
 ## **Về mình**
 - **Trương Thiên Ân** - MSSV 2310190 - Trường Đại học Bách Khoa - DHQG TPHCM
