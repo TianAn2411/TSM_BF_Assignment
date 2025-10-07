@@ -37,7 +37,7 @@ ASSIGNMENT_CTRR/
 │   ├── bellman.cpp       # Implementations of Bellman-Ford algorithm
 │   ├── tsm.cpp           # Implementations of TSP algorithm
 │
-├── main.cpp              # File chính để chạy chương trình
+├── main.cpp              # File chính để chạy chương trình (có cho sẵn một ma trận trọng số 30x30 - có thể thay đổi)
 ├── 2310190_tsm.pdf        # File báo cáo và có giải thích các thuật toán
 └── README.md
 ```
@@ -68,6 +68,7 @@ ASSIGNMENT_CTRR/
   ```bash
   ./main
   ```
+**Lưu ý** trong file `main.cpp` mình có cho một ma trận trọng số 30x30 (theo như 1 ví dụ trong đề năm đó của mình), bạn có thể thay đổi bằng ma trận bạn muốn và làm ví dụ của chính bạn nhé
 
 ### **Providing inputs**
 Khi chương trình chạy, bạn sẽ được yêu cầu nhập vào:
