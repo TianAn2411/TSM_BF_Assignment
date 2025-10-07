@@ -38,7 +38,8 @@ ASSIGNMENT_CTRR/
 │   ├── tsm.cpp           # Implementations of TSP algorithm
 │
 ├── main.cpp              # File chính để chạy chương trình
-└── 2310190_tsm.pf        # File báo cáo và có giải thích các thuật toán
+├── 2310190_tsm.pdf        # File báo cáo và có giải thích các thuật toán
+└── README.md
 ```
 ### **Thư mục `inc/`**
 - **`tsm.h`**: Chứa các khai báo và chức năng liên quan đến thuật toán TSP.
