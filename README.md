@@ -3,7 +3,7 @@
 
 ## **About me**
 - **Trương Thiên Ân** - MSSV 2310190 - Trường Đại học Bách Khoa - DHQG TPHCM
-- **Email**: an.truong241105@hcmut.edu.vn
+- **Email**: an.truong241105@hcmut.edu.vn or truongthienan2401@gmail.com
 
 Phần bài tập lớn này được thực hiện vào HK241, mong các bạn có thể tham khảo qua về những thuật toán mà mình sử dụng, và nếu có cần trao đổi, bổ sung và sửa lỗi đừng ngần ngại email cho mình nhé. Xin cảm ơn các bạn
 ## **Introduction**
